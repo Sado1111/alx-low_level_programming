@@ -1,8 +1,8 @@
 #include "lists.h"
 
 /**
- * strlen -  calculate string lenght of a string
- * @str - string to be measured
+ * _strlen -  calculate string lenght of a string
+ * @str: string to be measured
  * Return: number of char in string except null character
  */
 
@@ -19,7 +19,7 @@ size_t _strlen(const char *str)
  * add_node -  this adds new node beginning of list_t linked list
  * @head: pointer to the head node
  * @str: pointer to string data to be passed to new node str member
- * Return: address to new element 
+ * Return: address to new element
  */
 
 
