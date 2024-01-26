@@ -1,1 +1,1 @@
-The  Linked List is Doubly 😌😎
+The Linked Lizt that is Doubly in nature
